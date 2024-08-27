@@ -1,5 +1,5 @@
 {
-  "name": "gifted-md@v5.0.0",
+  "name": "MARKOS",
   "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
   "website": "https://web.giftedtechnexus.co.ke/sessions",
   "repository": "https://github.com/mouricedevs/gifted",
@@ -16,12 +16,12 @@
      "OWNER_NAME": {
       "description": "Put the name of Bot Owner",
       "required": true,
-      "value": "GIFTED TECH"
+      "value": "Lil Markos"
     },
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Numbers",
       "required": true,
-      "value": "254110853827"
+      "value": "256759329821"
     },
     "AUTO_STICKER": {
       "description": "Put true/false to enable auto conversion of videos and photos as stickers",
@@ -31,7 +31,7 @@
     "SESSION_ID": {
       "description": "Put your SESSION_ID.  Must start with Gifted~",
       "required": true,
-      "value": ""
+      "value": "Gifted~4RCdevNk"
     },
      "NOT_ALLOW": {
       "description": "Put value true to disable bot in pm during public mode.",
@@ -76,12 +76,12 @@
     "AUTO_BLOCK": {
       "description": "Put true if you want bot to auto block only 212 numbers",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_REACT": {
       "description": "Put value to true or false",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
      "HEROKU_APP_NAME": {
       "description": "Put your heroku app name as entered above.",
@@ -91,7 +91,7 @@
     "PREFIX": {
       "description": "You can leave blank for bot to use multiple prefixes",
       "required": false,
-      "value": "."
+      "value": ","
     },
      "DEPLOYMENT_PLATFORM": {
       "description": "Leave the value to default unless otherwise. ",
@@ -101,7 +101,7 @@
     "AUTO_REJECT_CALLS": {
       "description": "Put true if you want to reject call",
       "required": true,
-      "value": "false"
+      "value": "true"
      }
     },
     "formation": {
